@@ -25,6 +25,46 @@
         1,
         null
       ],
+      "/Users/Ethan/Dropbox/Coding/eschan_373/Week 1 Labs/ChoreTracker_starter_S13/app/models/chore.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/Ethan/Dropbox/Coding/eschan_373/Week 1 Labs/ChoreTracker_starter_S13/app/models/child.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/Ethan/Dropbox/Coding/eschan_373/Week 1 Labs/ChoreTracker_starter_S13/app/models/task.rb": [
         1,
         1,
@@ -35,15 +75,10 @@
         1,
         1,
         null,
-        null
-      ],
-      "/Users/Ethan/Dropbox/Coding/eschan_373/Week 1 Labs/ChoreTracker_starter_S13/app/models/chore.rb": [
-        1,
-        1,
         null,
         null
       ]
     },
-    "timestamp": 1390257011
+    "timestamp": 1390257912
   }
 }
